@@ -1,5 +1,4 @@
 # hello-world
-helloing world
 
 Hi Legos,
 
